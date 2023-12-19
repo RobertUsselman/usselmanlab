@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: archive
-permalink: /
+permalink: usselmanlab/
 author_profile: true
 comments: false
 header:
