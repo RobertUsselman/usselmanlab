@@ -141,7 +141,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RobertUsselman"
-    - label: "LinkdIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/robert-usselman-00400a72/"
     - label: "Researchgate"
