@@ -106,25 +106,25 @@ analytics:
 author:
   name             : "Prof. Robert J. Usselman, Ph.D."
   avatar           : "/assets/images/Usselman.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Assistant Professor of Chemistry, Florida Institute of Technology"
+  location         : "Melbourne, FL USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:russelman@fit.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://robertusselman.github.io/usselmanlab/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://twitter.com/RobertUsselman"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/RobertUsselman"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -134,20 +134,20 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url: "https://twitter.com/RobertUsselman"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      # url: "https://scholar.google.com/citations?user=WtXnSfcAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
+      # url: "https://github.com/RobertUsselman"
+    - label: "LinkdIn"
       icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
+      # url: "https://www.linkedin.com/in/robert-usselman-00400a72/"
+    - label: "Researchgate"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+    - label: "ORCHID"
       icon: "fab fa-fw fa-instagram"
       # url:
 
