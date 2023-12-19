@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: arechive
+layout: archive
 permalink: /About/
 author_profile: true
 comments: false
