@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "<Q|AI|BIO>"
 title_separator          : "-"
-subtitle                 : Quantum | Aritificial Intelligence | Biotechnology
+subtitle                 : #Quantum | Aritificial Intelligence | Biotechnology
 name                     : "Robert Usselman"
 description              : "Usselman Research Lab"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:russelman@fit.edu"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-graducation-cap"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=WtXnSfcAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
