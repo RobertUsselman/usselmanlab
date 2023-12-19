@@ -264,7 +264,7 @@ body:hover .visually-hidden button {
 
   .fa-linkedin,
   .fa-linkedin-in {
-    color: $linkedin-color;
+    color: #0077b5;
   }
 
   .fa-mastodon,
@@ -303,7 +303,7 @@ body:hover .visually-hidden button {
 
   .fa-twitter,
   .fa-twitter-square {
-    color: $twitter-color;
+    color: #1DA1F2;
   }
 
   .fa-vimeo,
@@ -316,6 +316,18 @@ body:hover .visually-hidden button {
     color: $vine-color;
   }
 
+   .fa-orcid {
+    color: #99CC33;
+  }
+
+  .fa-researchgate {
+    color: #00CCCC;
+  }
+
+  .fa-graduation-cap {
+    color: #3366CC;
+  }
+   
   .fa-youtube {
     color: $youtube-color;
   }
