@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "<Q|AI|BIO>"
 title_separator          : "-"
-subtitle                 : #Quantum | Aritificial Intelligence | Biotechnology
+subtitle                 : Quantum | Aritificial Intelligence | Biotechnology
 name                     : "Robert Usselman"
 description              : "Usselman Research Lab"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
