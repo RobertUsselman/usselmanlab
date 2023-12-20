@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RobertUsselman"
     - label: "Faculty Profile"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.fit.edu/faculty-profiles/u/robert-j-usselman/"
 
 # Site Footer
