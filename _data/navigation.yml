@@ -2,12 +2,12 @@
 main:
   - title: "Research"
     url: /Research/
+  - title: "News"
+    url: /News/
   - title: "Group"
     url: /Group/
   - title: "Publications"
     url: /Publications/
-  - title: "Teaching"
-    url: /Teaching/
   - title: "About"
     url: /About/
   # - title: "About"
