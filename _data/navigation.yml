@@ -2,6 +2,8 @@
 main:
   - title: "Research"
     url: /Research/
+  - title: "CRAFT"
+    url: /Craft/
   - title: "News"
     url: /News/
   - title: "Group"
