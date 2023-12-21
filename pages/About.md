@@ -10,12 +10,12 @@ header:
   overlay_filter: 0.5      
 ---
 
-##Educational Background
+## Educational Background
 2005 Ph.D. Bio-Physical Chemistry, Montana State University, Bozeman, MT  
 
 1999 B.A. in Chemistry (ACS-certified), Mathematics Minor Concordia College – Moorhead, MN
 
-##Professional Experience
+## Professional Experience
 2018-present Assistant Professor
 Department of Chemistry and Chemical Engineering, Florida Institute of Technology, Melbourne, FL
 
