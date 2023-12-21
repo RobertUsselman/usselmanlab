@@ -11,11 +11,11 @@ header:
 ---
 # Openings:
 
-> We have open positions for both graduate and undergraduate students in multiple areas, including cell culture, bioengineering, tissue engineering, microscopy, instrumentation, Python coding, and artificial intelligence.
+> We have openings for both graduate and undergraduate students in multiple areas, including cell culture, bioengineering, tissue engineering, microscopy, instrumentation, Python coding, and artificial intelligence.
 >
-> If you are a prospective graduate student with a strong STEM background, we host students in chemistry, biological sciences, and engineering.  For the PhD program in chemistry at Florida Tech, feel free to contact Dr. Usselman for specific projects.
+> If you are a prospective graduate student with a strong STEM background, we host students in chemistry, biological sciences, and engineering.  For the PhD program in Chemistry at Florida Tech, feel free to contact Dr. Usselman for specific projects.
 >
-> Local undergraduates from all areas of STEM are encourages to contact Prof. Usselman for research opportunities.
+> Undergraduates from all areas of STEM are encouraged to contact Prof. Usselman for research opportunities.
 
 ## Group Leader: 
 - Dr. Robert J. Usselman, Ph.D. - [about](/About/)
