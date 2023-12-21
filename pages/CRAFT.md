@@ -10,9 +10,7 @@ header:
   overlay_filter: 0.5      
 ---
 
-## Computational Research At Florida Tech
-
-[Home](https://research.fit.edu/craft/)
+## [Computational Research At Florida Tech](https://research.fit.edu/craft/)
 
 ## Mission Statement
 CRAFT is a university center for computationally intensive research in diverse fields of study. It serves as an intellectual hub for all researchers active in computational efforts. Its mission is to promote and facilitate collaborative research in multidisciplinary and interdisciplinary projects; to help investigators to prepare competitive grant proposals for research and HPC equipment; to provide enhanced education and training for undergraduate and graduate students; to forge partnership with industry to prepare students for the 21st Century workforce.
