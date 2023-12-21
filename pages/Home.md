@@ -8,6 +8,6 @@ header:
   overlay_image: /assets/images/Moleculestest.jpg
   overlay_filter: 0.5      
 ---
-![](assets/images/logo.png){: .align-center width="400"}
+![](assets/images/logo2.png){: .align-center width="400"}
 
 Under Construction
