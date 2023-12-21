@@ -1,38 +1,49 @@
 ---
-layout: splash
-permalink: /
-hidden: true
+title: "CRAFT"
+layout: archive
+permalink: /Craft/
+author_profile: true
+comments: false
+classes: wide
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+  overlay_image: /assets/images/Moleculestest.jpg
+  overlay_filter: 0.5      
 ---
 
-{% include feature_row %}
+## Computational Research At Florida Tech
+
+[Home}(https://research.fit.edu/craft/)
+
+## Mission Statement
+CRAFT is a university center for computationally intensive research in diverse fields of study. It serves as an intellectual hub for all researchers active in computational efforts. Its mission is to promote and facilitate collaborative research in multidisciplinary and interdisciplinary projects; to help investigators to prepare competitive grant proposals for research and HPC equipment; to provide enhanced education and training for undergraduate and graduate students; to forge partnership with industry to prepare students for the 21st Century workforce.
+
+## Goals and Objectives
+The goals and objectives are in three categories:
+
+# Technical:
+
+Development of computational techniques, software R&D, hardware architecture, and data management. 
+Development of HPC architecture and Edge computing based on GPU, TPU, and FPGA accelerators.
+Promotion of research collaborations between STEM, Business, ML/AI, and Computer Science communities for application of novel approaches for computational challenges.
+In collaboration with the Office of Information Technology, maintain and use the AI Panther HPC as its hardware backbone for operational services.
+
+# Educational:
+Development of courses for specialized education and training, with particular emphasis on incorporation of computational resources into research and workflow.
+Host regular seminars and technical training by inviting outside academic and industry speakers. Support students to attend conferences and educational workshops.
+Host annual hackathons and 1-day conference and poster session for students in the program.
+Utilize NVIDIA's Deep Learning Institute and Mark III Systems to host AI/Machine Learning Education Series for training faculty and students.
+Identify themes of research for targeting NSF-graduate research programs e.g., NSF Research Traineeship (NRT).
+
+# Collaborative:
+Bring in new efforts from faculty members, researchers, and students while emphasizing professional development and training.
+Foster a sense of community for graduate and undergraduate students to interact and develop novel research collaborations.
+Identify pillars of excellence for interdisciplinary and collaborative research.
+Form diverse and inclusive teams of faculty members and early career researchers to prepare competitive grant proposals for large scale research projects and HPC equipment.
+Embrace regional Space Coast technology hub and defense sectors. Identify emerging areas of computational needs for industry.
+Forge better partnerships with quantum computing companies e.g., IBM, Google,  AWS.
+
+## Specific Activities
+The following CRAFT activities are ordinarily not covered, or unable to be accomplished, within the existing departmental or divisional setting:
+
+Identifying and enabling research collaborations between STEM, business, and computer science communities for application of novel approaches, including machine learning and AI methods, to computational challenges.
+Forming diverse and demographically inclusive teams of experienced faculty members as well as early career researchers in order to prepare competitive proposals to obtain grants for large scale and multidisciplinary research projects.
