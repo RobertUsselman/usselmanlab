@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: archive
-permalink: /About/
+permalink: /News/
 author_profile: true
 comments: false
 classes: wide
