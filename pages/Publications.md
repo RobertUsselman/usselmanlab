@@ -9,11 +9,11 @@ header:
   overlay_image: /assets/images/Moleculestest.jpg
   overlay_filter: 0.5      
 ---
-23). [Aging and Neuronal Death](https://www.aging-us.com/article/205433/pdf),
-Fang Fang, Robert J. Usselman, Renee Reijo-Pera, Aging 15 (23) 2023.
 
-22). [Quantum Biology in Cellular Migration](https://www.biorxiv.org/content/10.1101/2022.09.09.507322v1),
-Amy Vecheck, Cameron McNamee, Renee Reijo-Pera, Robert J. Usselman, BioRχiv (2022)
+23). [Magnetic Field Intervention Enhances Cellular Migration Rates in Biological Scaffolds]([https://www.biorxiv.org/content/10.1101/2022.09.09.507322v1](https://www.mdpi.com/2306-5354/11/1/9)), Amy Vecheck, Cameron McNamee, Renee Reijo-Pera, and Robert J. Usselman, Bioengineering 11,9 (2024).
+
+22). [Aging and Neuronal Death](https://www.aging-us.com/article/205433/pdf),
+Fang Fang, Robert J. Usselman, Renee Reijo-Pera, Aging 15 (23) 2023.
 
 21). [Blue-light Induced Accumulation of Reactive Oxygen Species is a Consequence of the Drosophila Cryptochrome Photocycle](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171836), Louis-David Arthaut, Nathalie Jourdan, Ali Mteyrek, Maria Procopio, Mohamed El-Esawi, Alain d’Harlingue, Pierre-Etienne Bouchet, Jacques Witczak, Thorsten Ritz, Andre Klarsfeld, Serge Birman, Ute Hoecker, Robert J. Usselman, Carlos F. Martino, and Margaret Ahmad, PLoS ONE 12(3): e0171836 (2017).
 
