@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.5      
 ---
 
-23). [Magnetic Field Intervention Enhances Cellular Migration Rates in Biological Scaffolds]([https://www.biorxiv.org/content/10.1101/2022.09.09.507322v1](https://www.mdpi.com/2306-5354/11/1/9)), Amy Vecheck, Cameron McNamee, Renee Reijo-Pera, and Robert J. Usselman, Bioengineering 11,9 (2024).
+23). [Magnetic Field Intervention Enhances Cellular Migration Rates in Biological Scaffolds](https://www.mdpi.com/2306-5354/11/1/9), Amy Vecheck, Cameron McNamee, Renee Reijo-Pera, and Robert J. Usselman, Bioengineering 11,9 (2024).
 
 22). [Aging and Neuronal Death](https://www.aging-us.com/article/205433/pdf),
 Fang Fang, Robert J. Usselman, Renee Reijo-Pera, Aging 15 (23) 2023.
